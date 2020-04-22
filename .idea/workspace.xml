@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a06cffb-7b37-4dfd-8270-fa6413d5f0c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aqERmsM5oXHgfWYw1FqhjnEh3Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.read_covid_data_csv">
+    <configuration name="get_covid_data_http" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Covid19ToKafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/covid19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\MEMALKA\PycharmProjects\Covid19ToKafka\covid19\get_covid_data_http.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_covid_data_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Covid19ToKafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/covid19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/covid19/read_covid_data_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read_covid_data_csv" />
+        <item itemvalue="Python.get_covid_data_http" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a06cffb-7b37-4dfd-8270-fa6413d5f0c7" name="Default Changelist" comment="" />
+      <created>1587454717685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587454717685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="4" key="#Plugins" timestamp="1587455539161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="230" y="4" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1587455539161" />
+    <state x="403" y="67" key="FileChooserDialogImpl" timestamp="1587477456885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="403" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587477456885" />
+    <state width="1259" height="355" key="GridCell.Tab.0.bottom" timestamp="1587482282547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="355" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.8.1536.824@0.0.1280.680" timestamp="1587480398236" />
+    <state width="1259" height="355" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587482282547" />
+    <state width="1259" height="355" key="GridCell.Tab.0.center" timestamp="1587482282546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="355" key="GridCell.Tab.0.center/0.0.1280.680/-1920.8.1536.824@0.0.1280.680" timestamp="1587480398236" />
+    <state width="1259" height="355" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587482282546" />
+    <state width="1259" height="355" key="GridCell.Tab.0.left" timestamp="1587482282546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="355" key="GridCell.Tab.0.left/0.0.1280.680/-1920.8.1536.824@0.0.1280.680" timestamp="1587480398236" />
+    <state width="1259" height="355" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587482282546" />
+    <state width="1259" height="355" key="GridCell.Tab.0.right" timestamp="1587482282547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="355" key="GridCell.Tab.0.right/0.0.1280.680/-1920.8.1536.824@0.0.1280.680" timestamp="1587480398236" />
+    <state width="1259" height="355" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587482282547" />
+    <state x="124" y="0" key="SettingsEditor" timestamp="1587477516974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="124" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587477516974" />
+    <state x="721" y="34" width="606" height="350" key="com.intellij.ide.util.TipDialog" timestamp="1587551210472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="721" y="34" width="606" height="350" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587551210472" />
+    <state x="300" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587455486935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="300" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587455486935" />
+  </component>
+</project>
